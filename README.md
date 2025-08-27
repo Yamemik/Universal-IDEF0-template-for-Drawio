@@ -64,6 +64,6 @@
 
 ---  
 *Лицензия: [MIT License](https://opensource.org/licenses/MIT).*  
-*Сообщить об ошибке: Issues → https://github.com/ваш-username/название-репозитория/issues*  
+*Сообщить об ошибке: Issues → https://github.com/KoWalevDV/Universal-IDEF0-template-for-Drawio/issues*  
 
 > **Примечание**: Для работы требуется бесплатная регистрация в [Drawio](https://www.drawio.com/).
